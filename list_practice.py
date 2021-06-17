@@ -3,14 +3,24 @@ Oakland, Atlanta, New York, Seattle, Memphis, Miami, Boston, Los Angeles, Denver
 change
 
 '''
-city_names = [ "Oakland", "Atlanta", "New York", "Seattle", "Memphis", "Boston", "Los Angeles", "Denver", "New Orleans" ] 
+US_cities = [ "Oakland", "Atlanta", "New York", "Seattle", "Memphis", "Boston", "Los Angeles", "Denver", "New Orleans" ] 
 
 color_names = [ "blue", "yellow", "red", "green", "black" ]
 
-three_cities = city_names [0:3]
 
-print(three_cities) 
-print(city_names)
+def check_all(list1):
+    for element in list1 
+        print(element) 
+
+    return "Done"
+
+print{ check_all{US_cities} 
+
+
+
+
+
+
 
 
 
